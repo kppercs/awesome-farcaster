@@ -82,6 +82,7 @@
 - [Hatecast](https://hatecast.xyz/) - Track who a user unfollows and who unfollows them.
 - [Farcaster.vote](https://farcaster.vote/app) - Verifiable & decentralized polls within Farcaster Frames.
 - [Composecastxyz](https://github.com/0xSemicolon/composecastxyz) - Privacy preserving, MIT licensed compose cast gateway
+- [Percs App](https://percs.app/) - Branded Frames, Direct Cast Solutions. Follow [Percs on Warpcast](https://warpcast.com/percs)
 
 ## Bots
 
